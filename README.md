@@ -12,9 +12,9 @@
 <h2 align="center">📚 Programming Languages ​​and Tools Used </h2>
 </br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=c,python,javascript,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,kotlin,dart,c" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,jav,python,bootstrap,tailwind,laravel,react" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,vscode,github,git,figma,notion" /><br>
 </div>
 </br>
 <!---
