@@ -7,7 +7,16 @@
 
 <h2>💫 About Me</h2>
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=fiqraputralesmana&label=Profile%20Views&color=0&pretty=true" alt="Visitor Count" /></a> </p>
-<h4 align="left">I am an electronics engineer who is currently improving my programming skills, focusing on web and mobile application development. In addition, I also explore the world of information technology to expand my insight and knowledge.</h4>
+<h4 align="left">🛠️ I am an electronics engineer who is currently improving my programming skills, focusing on web and mobile application development. In addition, I also explore the world of information technology to expand my insight and knowledge. 💻✨</h4>
+</br>
+<h2 align="center">📚 Programming Languages ​​and Tools Used </h2>
+</br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=c,python,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java" /><br>
+</div>
+</br>
 <!---
 fiqraputralesmana/fiqraputralesmana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
