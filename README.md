@@ -61,7 +61,7 @@ I am an electronics engineer who is currently improving my programming skills, f
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiqraputralesmana&theme=radical&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/fiqraputralesmana" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
