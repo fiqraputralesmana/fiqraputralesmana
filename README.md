@@ -61,7 +61,7 @@ I am an electronics engineer who is currently improving my programming skills, f
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/fiqraputralesmana" alt="Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/fiqraputralesmana?v=20260616" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
