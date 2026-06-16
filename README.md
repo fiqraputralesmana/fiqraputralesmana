@@ -40,16 +40,35 @@ I am an electronics engineer who is currently improving my programming skills, f
 
 ---
 
-### GitHub Analytics
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fiqraputralesmana&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiqraputralesmana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=2563EB&title_color=2563EB" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiqraputralesmana&theme=radical&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqraputralesmana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=2563EB" alt="Top Languages" width="50%" />
-</div>
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fiqraputralesmana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=2563EB&title_color=2563EB" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiqraputralesmana&theme=radical&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=FFFFFF" alt="GitHub Streak" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqraputralesmana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=2563EB" alt="Top Languages" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiqraputralesmana&theme=radical&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
+</p>
 
 <!--
 fiqraputralesmana/fiqraputralesmana is a special repository because its `README.md` (this file) appears on your GitHub profile.
