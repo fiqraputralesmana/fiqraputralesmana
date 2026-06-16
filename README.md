@@ -24,12 +24,6 @@ I am an electronics engineer who is currently improving my programming skills, f
 - 🤝 Open for collaborations on **Web and Mobile App Projects**
 - 📫 How to reach me: **lesmanaputrafiqra@gmail.com**
 
-<p align="left">
-  <a href="https://github.com/fiqraputralesmana">
-    <img src="https://visitcount.itsvg.in/api?id=fiqraputralesmana&label=Profile%20Views&color=2563EB&pretty=true" alt="Visitor Count" />
-  </a>
-</p>
-
 ---
 
 ### Tech Stack
@@ -40,28 +34,19 @@ I am an electronics engineer who is currently improving my programming skills, f
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fiqraputralesmana&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiqraputralesmana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=2563EB&title_color=2563EB&count_private=true&cache_seconds=1800&v=1" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiqraputralesmana&theme=radical&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=FFFFFF&v=1" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fiqraputralesmana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=2563EB&title_color=2563EB&count_private=true&cache_seconds=1800&v=2" alt="GitHub Stats" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=fiqraputralesmana&theme=radical&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=FFFFFF&v=2" alt="GitHub Streak" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqraputralesmana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=2563EB&cache_seconds=1800&v=1" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqraputralesmana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=2563EB&cache_seconds=1800&v=2" alt="Top Languages" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/fiqraputralesmana?v=20260616" alt="Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/fiqraputralesmana?v=20260616-2" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
